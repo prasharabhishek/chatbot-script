@@ -67,7 +67,7 @@ window.onload = function() {
             color: white;
             padding: 10px;
             border: none;
-            margin-left: -50px;
+            margin-left: 5px;
             border-radius: 5px;
             cursor: pointer;
         }
